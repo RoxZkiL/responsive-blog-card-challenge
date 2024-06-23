@@ -31,4 +31,4 @@ Los usuarios deberían poder:
 
 - Este sitio es responsive y está hecho con HTML y CSS.
 - Enlace al desafío: [Blog Preview Card Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
-- Enlace al deploy (vista en vivo) del proyecto.
+- Enlace al deploy: [Vista en vivo del proyecto](https://blog-responsive-card.netlify.app).
