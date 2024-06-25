@@ -8,7 +8,7 @@ Gracias por revisar este proyecto de Blog Preview Card.
 
 Este proyecto es parte de los desafíos de [Frontend Mentor](https://www.frontendmentor.io) que ayudan a mejorar las habilidades de codificación construyendo proyectos realistas.
 
-**Para hacer este proyecto, utilicé HTML y CSS.**
+**Para hacer este proyecto, utilicé HTML y CSS. Es 100% responsive, se adapta a cualquier tamaño de pantalla.**
 
 ## El desafío
 
